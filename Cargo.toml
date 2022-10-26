@@ -1,6 +1,6 @@
 [package]
 name = 'substrate-validator-set'
-version = '0.9.22'
+version = '0.9.24'
 authors = ['Gautam Dhameja <quasijatt@outlook.com>']
 edition = '2021'
 license = 'Apache-2.0'
